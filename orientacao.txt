@@ -6,3 +6,11 @@ Segundo passo:
      git clone uri
 
 Terceiro passo:
+    git add nomeArquivo
+
+Quarto passo:
+   git commit -m 'Comentario sobre a mudança realizada'
+
+Quinto passo:
+   git push
+
