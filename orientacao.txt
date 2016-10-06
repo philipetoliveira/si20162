@@ -1,0 +1,8 @@
+Primeiro passo:
+     Uma pessoa do grupo cria o repositorio no github
+
+Segundo passo:
+     Todos precisam clonar o projeto criado no repositório
+     git clone uri
+
+Terceiro passo:
